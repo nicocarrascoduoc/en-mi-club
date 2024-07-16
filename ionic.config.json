@@ -1,0 +1,7 @@
+{
+  "name": "en-mi-club",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
